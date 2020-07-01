@@ -5,4 +5,5 @@ app.get('/', function (req, res) {
   res.send('Hello World')
 })
 
+console.log('app running and listening on http://localhost:3000')
 app.listen(3000)
