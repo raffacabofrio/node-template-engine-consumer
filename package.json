@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/raffacabofrio/node-template-engine-consumer.git"
   },
-  "author": "",
+  "author": "Raffaello Damgaard",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raffacabofrio/node-template-engine-consumer/issues"
