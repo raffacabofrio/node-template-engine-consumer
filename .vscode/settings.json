@@ -8,5 +8,9 @@
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
   "editor.formatOnSave": true,
-  "prettier.semi": false
+  "prettier.semi": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
