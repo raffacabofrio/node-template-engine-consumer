@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+
+<h1>Awesome Business Card generator!</h1>
+
+<p>hello {{name}}!</p>
+
+<p>you have {{age}} years</p>
+
+<p>your name again: {{name}}. template engine is working.</p>
+
+<form>
+
+</form>
+
+</body>
+</html>

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raffacabofrio/node-template-engine-consumer#readme",
   "dependencies": {
+    "chop-template-engine": "^1.6.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
